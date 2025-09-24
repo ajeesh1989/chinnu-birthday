@@ -31206,7 +31206,7 @@ n===$&&A.b()
 return A.a6z(A.c([A.a4q(A.a3S(o,A.a3l(A.a3Z("assets/chinnuu.jpg",B.ew,350,300),B.bt,new A.yP()),B.aC,!1,o,o,o,o,o,o,o,o,o,o,o,o,p.gCd(),o,o,o),n),B.tR,B.LC],t.nA),B.o9)}else if(n===1){n=p.f
 s=A.Ke(20)
 r=A.c([new A.fr(4,B.hN,A.bh(102,B.m.J()>>>16&255,B.m.J()>>>8&255,B.m.J()&255),B.i,30)],t.xq)
-return A.a6a(A.a3p(A.a3Z(p.w[p.f],B.ew,550,450),B.bt,new A.eK(o,o,o,s,r,o,B.bq),o,new A.fd("gallery"+n,t.fs),o,o,o),B.f7)}else{n=A.c([new A.xV(A.Ke(20),A.a3Z("assets/chinnu.jpg",B.ew,690,460),o),B.tS,A.a9b("\ud83c\udf82 Happy Birthday, Chinnu \ud83c\udf89",A.tI(o,o,B.j,o,o,o,o,o,o,o,o,35,o,o,B.aM,o,o,!0,o,o,o,o,o,B.B5,o,o),B.bR),B.tS],t.nA)
+return A.a6a(A.a3p(A.a3Z(p.w[p.f],B.ew,550,450),B.bt,new A.eK(o,o,o,s,r,o,B.bq),o,new A.fd("gallery"+n,t.fs),o,o,o),B.f7)}else{n=A.c([new A.xV(A.Ke(20),A.a3Z("assets/chinnu.jpg",B.ew,525,350),o),B.tS,A.a9b("\ud83c\udf82 Happy Birthday, Chinnu \ud83c\udf89",A.tI(o,o,B.j,o,o,o,o,o,o,o,o,35,o,o,B.aM,o,o,!0,o,o,o,o,o,B.B5,o,o),B.bR),B.tS],t.nA)
 if(p.y!=null){s=B.c.aj(178.5)
 s=A.c([A.bh(s,B.d9.J()>>>16&255,B.d9.J()>>>8&255,B.d9.J()&255),A.bh(s,B.eY.J()>>>16&255,B.eY.J()>>>8&255,B.eY.J()&255)],t.bk)
 r=A.Ke(16)
