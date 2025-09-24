@@ -251,8 +251,8 @@ class _CardPageState extends State<CardPage> with TickerProviderStateMixin {
               borderRadius: BorderRadius.circular(20), // rounded corners
               child: Image.asset(
                 "assets/chinnu.jpg",
-                width: 460,
-                height: 690,
+                width: 350, // slightly bigger
+                height: 525, // slightly bigger
                 fit: BoxFit.cover,
               ),
             ),
