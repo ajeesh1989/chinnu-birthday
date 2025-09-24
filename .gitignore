@@ -1,0 +1,8 @@
+# Flutter generated
+/build/
+/.dart_tool/
+/ios/Flutter/Flutter.podspec
+/web/*.js
+/web/index.html
+/web/manifest.json
+/web/version.json
